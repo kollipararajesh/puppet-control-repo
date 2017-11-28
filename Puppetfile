@@ -26,11 +26,11 @@ mod 'ntp',
   :git =>'https://github.com/kollipararajesh/puppet-ntp',
   :ref =>'master'
 
-mod 'role'
+mod 'role',
   :git =>'https://github.com/kollipararajesh/puppet-role2',
   :ref =>'master'
 
-mod 'profile'
+mod 'profile',
   :git =>'https://github.com/kollipararajesh/puppet-profile',
   :ref =>'master'
 
