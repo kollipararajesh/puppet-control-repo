@@ -18,19 +18,19 @@ mod "puppetlabs/apache",      '1.11.0'
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
 #  :branch => 'docs_experiment'
 
-#mod 'ssh',
- # :git =>'https://github.com/kollipararajesh/puppet-ssh-1',
- # :ref =>'master'
+mod 'ssh',
+  :git =>'https://github.com/kollipararajesh/puppet-ssh-1',
+  :ref =>'master'
 
-#mod 'ntp',
- # :git =>'https://github.com/kollipararajesh/puppet-ntp',
-  #:ref =>'master'
+mod 'ntp',
+  :git =>'https://github.com/kollipararajesh/puppet-ntp',
+  :ref =>'master'
 
-#mod 'role'
- # :git =>'https://github.com/kollipararajesh/puppet-role2',
- # :ref =>'master'
+mod 'role'
+  :git =>'https://github.com/kollipararajesh/puppet-role2',
+  :ref =>'master'
 
-#mod 'profile'
- # :git =>'https://github.com/kollipararajesh/puppet-profile',
- # :ref =>'master'
+mod 'profile'
+  :git =>'https://github.com/kollipararajesh/puppet-profile',
+  :ref =>'master'
 
